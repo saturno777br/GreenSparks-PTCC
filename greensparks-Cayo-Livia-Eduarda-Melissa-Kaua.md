@@ -30,6 +30,18 @@ detecta a umidade do solo, assim regando apenas quando a humidade se encontrar a
 do necessário, dessa forma também se evita grandes volumes de água, que podem ser
 prejudicais as hortas.
 
+## Tecnologias: 
+
+* Arduino UNO;
+* Protoboard;
+* Motor CC;
+* Led RGB;
+* 2 Resistores 330;
+* Sensor de umidade do solo;
+* 11 cabos jumper Macho Macho;
+* 2 cabos jumper Macho Fêmea.
+
+
 ## Referências
 
 > ISHIKAWA, R. H.; NOGUEIRA, D. da S.; LIMA, G. de A.; MARCOLINO, L. C.;
