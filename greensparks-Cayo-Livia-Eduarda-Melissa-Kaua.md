@@ -6,6 +6,8 @@
 
 <center>Melissa Gouveia</center>
 
+<center>Kaua Andrade de Souza</center>
+
 # **<center>Green Sparks</center>**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quando falamos de agricultura, nem sempre as pessoas se lembram do nicho da
